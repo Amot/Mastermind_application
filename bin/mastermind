@@ -1,0 +1,3 @@
+require 'E:/Mastermind_application/lib/mastermind'
+game = Mastermind::Game.new(STDOUT)
+game.start

@@ -1,1 +1,1 @@
-@"ruby.exe" "%~dpn0" %*
+@"C:/InstantRails20/ruby/bin/ruby.exe" "%~dpn0" %*

@@ -1,1 +1,1 @@
-require 'mastermind/game'
+require 'E:/Mastermind_application/lib/mastermind/game'
